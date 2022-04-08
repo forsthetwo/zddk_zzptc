@@ -12,7 +12,7 @@
 
 第一个：程序本体
 
-![image-20220409011318571](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp\image-20220409011318571.png)
+![image-20220409011318571](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp/image-20220409011318571.png)
 
 
 
@@ -20,7 +20,7 @@
 
 在程序本体同一文件夹下创建一个名为`data.txt`的文件
 
-![image-20220409011901316](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp\image-20220409011901316.png)
+![image-20220409011901316](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp/image-20220409011901316.png)
 
 在`data.txt`里第一行写上学号
 
@@ -46,7 +46,7 @@
 
  双击右键运行出现运行成功的提示就好了
 
-![image-20220409013019251](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp\image-20220409013019251.png)
+![image-20220409013019251](https://github.com/forsthetwo/zddk_zzptc/raw/main/tp/image-20220409013019251.png)
 
 
 
