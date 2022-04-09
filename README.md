@@ -19,6 +19,14 @@
 
 
 
+请在右侧下载
+
+![image-20220409090924347](D:\AbandownaresDATA\pydata\pythonProject\dist\tp\image-20220409090924347.png)
+
+点击.exe后缀的文件下载
+
+![image-20220409091514038](D:\word\GitHub\zddk_zzptc\zddk_zzptc\picture\image-20220409091514038.png)
+
 第二个：配置文件（只需要写一次）
 
 在程序本体同一文件夹下创建一个名为`data.txt`的文件
