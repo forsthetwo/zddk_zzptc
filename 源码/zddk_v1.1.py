@@ -13,10 +13,14 @@ def dq(path):
             txt01=f1.readline()
             txt02=f1.readline()
             txt03=jm_mm(txt02.strip())
-            txt04=f1.readline()
-            if len(txt04)==0|txt04.isspace()==True:
+            try:
+                txt04=f1.readline()
+                txt04=int(txt04)
+                if txt04>4|txt04<0:
+                    txt04=3
+            except ValueError:
                 txt04=3
-            return txt01.strip(),txt03,int(txt04)
+            return txt01.strip(),txt03,txt04
     else:
         print("文件不存在，请在本程序下创建data.txt文件，并写好账号密码")
         raw_input("输入回车以结束程序运行")
@@ -107,6 +111,7 @@ def dk(ts,zs):        #自动打卡  时间,针数
 try:
     x1, x2, x3 = dq("data.txt")  # 读取账号密码 针数
     ts01=dl(x1,x2)         #登录账号
+
 except Exception:
     print("账号或密码错误")
     raw_input("输入回车以结束程序运行")  # 结束程序运行
