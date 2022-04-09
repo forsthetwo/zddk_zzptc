@@ -13,7 +13,7 @@
 
 本程序所运行共需要两个文件
 
-第一个：程序本体
+##### 第一个：程序本体
 
 ![image-20220409011318571](https://github.com/forsthetwo/zddk_zzptc/raw/main/picture/image-20220409011318571.png)
 
@@ -27,7 +27,7 @@
 
 ![image-20220409091514038](https://github.com/forsthetwo/zddk_zzptc/raw/main/picture/image-20220409091514038.png)
 
-第二个：配置文件（只需要写一次）
+##### 第二个：配置文件（只需要写一次）
 
 在程序本体同一文件夹下创建一个名为`data.txt`的文件
 
