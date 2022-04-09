@@ -59,6 +59,8 @@
 
 ![image-20220409013019251](https://github.com/forsthetwo/zddk_zzptc/raw/main/picture/image-20220409013019251.png)
 
+感谢 Mr.伟 和 DJ 对本项目的大力支持
+
 
 
 
