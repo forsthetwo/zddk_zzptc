@@ -59,7 +59,6 @@
 
 ![image-20220409013019251](https://github.com/forsthetwo/zddk_zzptc/raw/main/picture/image-20220409013019251.png)
 
-感谢 Mr.伟 和 DJ 对本项目的大力支持
 
 
 
@@ -70,4 +69,7 @@
  windows定时启动程序请参考
 
 [windows 10添加定时任务 - 小虎利思 - 博客园 (cnblogs.com)](https://www.cnblogs.com/wensiyang0916/p/5773828.html)
+
+感谢 Mr.伟 和 DJ 对本项目的大力支持
+
 
